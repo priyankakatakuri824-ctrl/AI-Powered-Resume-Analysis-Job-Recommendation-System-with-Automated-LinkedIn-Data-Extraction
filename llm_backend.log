@@ -1,0 +1,4 @@
+2025-12-22 19:27:29,960 | INFO | LLM call attempt 1
+2025-12-22 19:27:44,644 | INFO | LLM success | Input tokens: 14 | Output tokens: 34
+2025-12-22 19:43:16,664 | INFO | LLM call attempt 1
+2025-12-22 19:43:46,359 | INFO | LLM success | Input tokens: 155 | Output tokens: 382

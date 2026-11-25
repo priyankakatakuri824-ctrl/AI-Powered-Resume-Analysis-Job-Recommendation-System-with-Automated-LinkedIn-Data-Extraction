@@ -1,0 +1,15 @@
+streamlit
+bcrypt
+python-docx
+PyPDF2
+pillow
+langchain
+langchain-community
+ollama
+python-dotenv
+tenacity
+loguru
+requests
+python-dotenv
+langchain
+
